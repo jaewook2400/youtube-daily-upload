@@ -1,0 +1,13 @@
+client_secret*.json
+token.json
+config.json
+state.json
+.uploader.lock
+logs/
+.venv/
+__pycache__/
+.DS_Store
+*.mp4
+*.mov
+*.m4v
+*.mkv

@@ -1,0 +1,13 @@
+{
+  "watch_dir": "~/Desktop/record",
+  "uploaded_dir": "~/Desktop/record/uploaded",
+  "privacy_status": "private",
+  "category_id": "22",
+  "title_template": "{title}",
+  "description_template": "{title}\n\n업로드 날짜: {date}",
+  "tags": [],
+  "title_strip_suffixes": ["_compressed"],
+  "extensions": [".mp4", ".mov", ".m4v", ".mkv"],
+  "min_age_minutes": 10,
+  "made_for_kids": false
+}
